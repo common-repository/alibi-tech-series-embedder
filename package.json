@@ -1,0 +1,22 @@
+{
+  "name": "alibi-tech-series-embed",
+  "version": "1.0.0",
+  "description": "Wordpress plugin for watch, shop, share widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Sethi",
+  "license": "ISC",
+  "dependencies": {
+    "@alibi-tech/widget-lib": "^1.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5",
+    "babelify": "^10.0.0",
+    "webpack": "^5.57.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
